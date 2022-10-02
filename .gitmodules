@@ -1,0 +1,6 @@
+[submodule "movie-backend-api"]
+	path = movie-backend-api
+	url = https://github.com/AvneetSidhu/movie-backend-api.git
+[submodule "movie-backend-user-api"]
+	path = movie-backend-user-api
+	url = https://github.com/AvneetSidhu/movie-backend-user-api.git
